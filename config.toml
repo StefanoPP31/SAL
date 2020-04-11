@@ -4,7 +4,6 @@ title = "Stay Active Lifestyle"
 theme = "harbor-master"
 
 paginate = 3
-languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
